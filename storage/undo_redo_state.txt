@@ -1,0 +1,15 @@
+[UNDO_STACK]
+---ITEM---
+FILE:random.text
+DESC:Redo: Undo: Appended text
+DATA_START
+DATA_END
+[END_UNDO_STACK]
+[REDO_STACK]
+---ITEM---
+FILE:random.text
+DESC:Undo: Before restore of Version 1
+DATA_START
+hello
+DATA_END
+[END_REDO_STACK]

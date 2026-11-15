@@ -1,0 +1,18 @@
+===VERSION_RECORD===
+ID:1
+FILE:random.text
+TIMESTAMP:2026-11-14 20:32:38
+SNAPSHOT:storage/versions/v1_random.text.txt
+---CONTENT_START---
+hello
+---CONTENT_END---
+===END_RECORD===
+===VERSION_RECORD===
+ID:2
+FILE:random.text
+TIMESTAMP:2026-11-14 20:34:20
+SNAPSHOT:storage/versions/v2_random.text.txt
+---CONTENT_START---
+hello
+---CONTENT_END---
+===END_RECORD===
